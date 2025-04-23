@@ -5,4 +5,4 @@ If you are an instructor interested in using this material for a class and need 
 
 See the wiki for suggestions on how to use the material in this repository to learn/teach programming and AI for Chemistry or Biochemistry.
 
-Acknowledgements: Development of this resource is supported by a Cottrell Scholar Award form the Research Corporation for Scientific Advancement (RSCA) to Allison Walker. All respository contents are soley the responsibility of the authors and do not necessarily represent the views of RCSA.  
+Acknowledgements: Development of this resource is supported by a Cottrell Scholar Award from the Research Corporation for Scientific Advancement (RSCA) to Allison Walker. All respository contents are soley the responsibility of the authors and do not necessarily represent the views of RCSA.  
