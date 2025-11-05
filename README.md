@@ -3,6 +3,6 @@ Repository with tutorials and exercises on programming and AI/ML for chemistry a
 
 If you are an instructor interested in using this material for a class and need additional information on grading assignments, please contact me (allison.s.walker@vanderbilt.edu).
 
-See the wiki for suggestions on how to use the material in this repository to learn/teach programming and AI for Chemistry or Biochemistry.
+See the wiki for suggestions on how to use the material in this repository to learn/teach programming and AI for Chemistry or Biochemistry and background information associated with each lesson.
 
 Acknowledgements: Development of this resource is supported by a Cottrell Scholar Award from the Research Corporation for Scientific Advancement (RSCA) to Allison Walker at Vanderbilt University. All respository contents are soley the responsibility of the authors and do not necessarily represent the views of RCSA.  
